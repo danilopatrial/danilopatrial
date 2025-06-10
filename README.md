@@ -6,7 +6,7 @@
 
 ---
 
-## 🌌 Latest Project:  [GSIC](https://github.com/danilopatrial/gsic) - Visualizing the Universe with the Gaia Telescope
+## 🌌 [GSIC](https://github.com/danilopatrial/gsic) - Visualizing the Universe with the Gaia Telescope
 
 Checkout my latest project where I use data from the **Gaia Source Catalog** to generate a visual representation of our universe — mapping stars by temperature, color, and position!
 
