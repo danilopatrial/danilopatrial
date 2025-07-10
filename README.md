@@ -6,17 +6,6 @@
 
 ---
 
-## 🌌 Visualizing the Universe with the Gaia Telescope
-
-Checkout my latest project where I use data from the **Gaia Source Catalog** to generate a visual representation of our universe — mapping stars by temperature, color, and position!
-
-<p align="center">
-  <img src="https://github.com/danilopatrial/gsic/blob/main/images/plate_carree_bp_rp_to_kelvin_coloring.png" alt="Gaia Image" style="max-width: 100%;">
-</p>
-
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilopatrial&theme=dark&hide_border=true"/>
 </p>
@@ -35,7 +24,6 @@ Checkout my latest project where I use data from the **Gaia Source Catalog** to 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
