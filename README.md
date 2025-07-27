@@ -1,10 +1,12 @@
 <h1 align="center">Hello there 👋, I'm Danilo Patrial</h1>
 
+## [>_ My NeoVim Config](https://github.com/danilopatrial/nvim)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I'm+a+Python+developer.">
+  <img src="Captura de tela 2025-07-27 163443.png"/>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilopatrial&theme=dark&hide_border=true"/>
 </p>
