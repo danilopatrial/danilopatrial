@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Danilo Patrial</h1>
+<h1 align="center">Hi, I'm Danilo Patrial</h1>
 
 ## [>_ My NeoVim Config](https://github.com/danilopatrial/nvim)
 <p align="center">
