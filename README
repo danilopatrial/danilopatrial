@@ -1,6 +1,22 @@
-Currently building CLI tools for domain flippers.
+=                  Vibe-coding tools for Domain Flippers and some other Stuff                   =
 
-Domain portfolio ----------> domains.patriali.com
-Inquiries and Contact -----> contact@patriali.com
+Domain portfolio ----------------------------------------------------------> domains.patriali.com
+Inquiries and Contact -----------------------------------------------------> contact@patriali.com
+
+=-----------------------------------------------------------------------------------------------=
+=                                             REPOS                                             =
+=-----------------------------------------------------------------------------------------------=
+CZDS -  The download speed for zone files via the ICANN official website is limited and sometimes
+lead to a complete stop of the operation before finishing. Downloading via the terminal, provides
+a more secure way to ensure that you download will be sucessfull. I also implemented a simple way
+to search for domains on a given zone. Its a simple tool that get its job done.
+
+TAMPERMONKEY - Tampermonkey is a browser extension that let you run JS scripts on a wanted wesite
+I'm currently using it to extract domain names from expireddomains.net,  but I believe there will
+be more usecases for it in the near future.
+=-----------------------------------------------------------------------------------------------=
 
 I use Arch, btw.
+
+*I'm not sharing my dotfiles here because I'm currently using End-4's hyprland config.
+*https://github.com/end-4/dots-hyprland
